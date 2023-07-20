@@ -6,5 +6,6 @@ Project contains files:
   reqruitment_task.py - objected oriented code in python with program logic;
   run.py - short file to run program;
   requirments.txt - list of libraries to install
+  output.jsonl - file with results
 
 File .env is private 
